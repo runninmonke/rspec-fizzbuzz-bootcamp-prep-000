@@ -8,6 +8,7 @@ def fizzbuzz(num)
       result = result + "Buzz"
     else
       result = "Buzz"
+    end
   end
   result
 end
